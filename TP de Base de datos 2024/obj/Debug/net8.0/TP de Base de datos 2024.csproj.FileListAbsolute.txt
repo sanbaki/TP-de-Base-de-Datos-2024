@@ -1,0 +1,37 @@
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\TP de Base de datos 2024.csproj.AssemblyReference.cache
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\TP de Base de datos 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\TP de Base de datos 2024.AssemblyInfoInputs.cache
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\TP de Base de datos 2024.AssemblyInfo.cs
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\TP de Base de datos 2024.csproj.CoreCompileInputs.cache
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\TP de Base de datos 2024.exe
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\TP de Base de datos 2024.deps.json
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\TP de Base de datos 2024.runtimeconfig.json
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\TP de Base de datos 2024.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\TP de Base de datos 2024.pdb
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\TP de Ba.09BD3722.Up2Date
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\TP de Base de datos 2024.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\refint\TP de Base de datos 2024.dll
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\TP de Base de datos 2024.pdb
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\TP de Base de datos 2024.genruntimeconfig.cache
+C:\Users\Antonela\source\repos\TP de Base de datos 2024\TP de Base de datos 2024\obj\Debug\net8.0\ref\TP de Base de datos 2024.dll
